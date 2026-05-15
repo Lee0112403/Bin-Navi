@@ -251,7 +251,7 @@ wrangler d1 create navigation-db
         {
             "binding": "DB",
             "database_name": "navigation-db",
-            "database_id":"6e5a3a24-9608-4977-8b73-5a532515cad4"// 替换为您刚创建的数据库ID
+            "database_id":"您的数据库ID"// 替换为您刚创建的数据库ID
         }
     ],
     "vars": {
